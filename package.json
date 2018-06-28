@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Les horaires de votre bus favori à porté de main!",
   "main": "bot.js",
+  "scripts": {"start": "node bot.js"},
   "author": "Léo Sénéchal - ELECTRIZZ",
   "dependencies": {
     "axios": "^0.18.0",
