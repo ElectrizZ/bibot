@@ -1,0 +1,12 @@
+{
+  "name": "bibus-bot",
+  "version": "1.0.0",
+  "description": "Les horaires de votre bus favori à porté de main!",
+  "main": "bot.js",
+  "author": "Léo Sénéchal - ELECTRIZZ",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.0.0"
+  }
+}
